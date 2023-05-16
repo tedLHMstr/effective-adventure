@@ -1,1 +1,7 @@
 poetry.lock
+*.jpg
+*.png
+*.xml
+*.mat
+*.jpeg
+*.gif
